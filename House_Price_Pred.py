@@ -37,7 +37,7 @@ pd.set_option('display.float_format', lambda x: '%.5f' % x)
 
 train = pd.read_csv("datasets/house_prices/train.csv")
 test = pd.read_csv("datasets/house_prices/test.csv")
-df = train.append(test).reset_index(drop=True)
+df = train.reset_index(drop=True)
 df.head()
 
 
