@@ -1,5 +1,5 @@
 # House_Price_Pred
-### House_Preci_Pred model
+### House_Price_Prediction model
 
 
 ![Uygulama Ekran Görüntüsü](https://etimg.etb2bimg.com/photo/82523669.cms)    
