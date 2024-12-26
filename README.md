@@ -1,4 +1,4 @@
-# House_Price_Pred
+# House_Price_Prediction Project
 ### House_Price_Prediction model
 
 
